@@ -1,7 +1,7 @@
 .box {
   background-color: black;
   z-index: 1;
-  background-image:url('pexels-frank-cone-3279307.jpg');
+  background-image:url('../images/pexels-frank-cone-3279307.jpg');
   transition: 0.2s all ease-in-out;
 }
 

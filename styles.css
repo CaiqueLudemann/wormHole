@@ -1,0 +1,11 @@
+.box {
+  background-color: black;
+  z-index: 1;
+  transition: 0.2s all ease-in-out;
+}
+
+
+.box:hover {
+  border: 10px solid black;
+  background-image:url('pexels-frank-cone-3279307.jpg');
+}
